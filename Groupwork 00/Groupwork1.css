@@ -1,0 +1,186 @@
+header {
+    background-image: url(Goa\ background.jpg);
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+    border-radius: 2cap;
+}
+
+
+
+
+.section1 ul {
+
+background-color:#222222;
+color:#ffffff;
+border-radius: 2cap;
+text-align: center;
+border-style: outset;
+}
+
+
+aboutgoa {
+
+text-align: center;
+color:white;
+
+}
+
+video {
+
+text-align:left;
+border-radius:10px;
+
+}
+
+h3header {
+
+color: limegreen;
+
+}
+
+html {
+
+background-color: #1b1b32;
+
+}
+
+img {
+
+position: relative;
+left:650px;
+bottom:200px;
+border-style:none;
+border-radius: 10px;
+border-style: groove;
+
+
+}
+
+header2 {
+
+position: absolute;
+top:450px;
+left:750px;
+    
+color:white;
+
+}
+
+.section2 ul {
+
+position: absolute;
+
+top:525px;
+left:550px;
+color: yellow;
+
+}
+
+.ceo h1 {
+position: absolute;
+color:white;
+left:1175px;
+top:900px;
+border-radius: 10px;
+background-color: #333333;
+border-style: groove;
+
+}
+
+ .ceo img {
+
+   
+position: absolute;
+top: 710px;
+left:1175px;
+border-radius: 10px;
+background-color: #333333;
+border-style:groove;
+
+}
+
+.socials  h1 {
+
+color:darkgreen;
+position:absolute;
+top:910px;
+left:35px;
+
+}
+
+.socials ul {
+
+color:darkgoldenrod;
+
+
+
+}
+
+.socials button {
+
+font-size:20px;
+background-color:grey;
+color:lightblue;
+border-radius:25px;
+left:150px;
+position:absolute;
+
+}
+
+
+.socials button2 {
+
+    font-size:20px;
+    background-color:grey;
+    color:lightblue;
+    border-radius:25px;
+    left:-12px;
+    position:absolute;
+
+}
+
+.becomechad h1 {
+
+    background-image: url(Goa\ background.jpg);
+    color: white;
+    padding: 1em 0;
+    text-align:center;
+    
+    border-radius: 10px;
+    color:limegreen;
+   font-family: "Press Start 2P";
+   font-weight:bold;
+
+}
+
+.glowing-header {
+    font-size: 3em;
+    color: #fff;
+    text-shadow: 0 0 5px #fff, 
+                 0 0 10px limegreen, 
+                 0 0 15px limegreen;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
